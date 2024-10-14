@@ -1,1 +1,1 @@
-# We will open source this code after the conference results are announced.
+# We will open source this code usage after the conference results are announced.
